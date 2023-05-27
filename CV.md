@@ -55,7 +55,7 @@ Soft Skills
 
 - Problem solving, Teamwork, Attention to details
 - The desire for self-development and the study of new technologies and approaches in development.
-- Ability to effectively manage your time and organize tasks.
+- Ability to effectively manage my time and organize tasks.
 - Adaptability to change and readiness for constant learning.
 
 ## LANGUAGES
