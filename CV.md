@@ -4,7 +4,7 @@
 
 [GitHub](https://github.com/azizbek-kobilov) | [LinkedIn](https://www.linkedin.com/in/azizbekkobilov) | [Email](mailto:kobilov.2000@mail.ru) | [Website](https://azizbek-kobilov.uz)
 
-+998979130585 | Tashkent, Uzbekistan
++998979130585 | [Telegram](https://t.me/AzizbekAzamovich) | Tashkent, Uzbekistan
 
 Experienced Python developer specializing in Django and Django REST Framework. As a developer, I am interested in applying my skills to create innovative and effective solutions. The goal is to work in a dynamic team where I can continue to grow and develop as a developer.
 
