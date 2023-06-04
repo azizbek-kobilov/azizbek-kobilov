@@ -14,15 +14,33 @@ Experienced Python developer specializing in Django and Django REST Framework. A
 
 Automation Specialist
 
+- Participation in the full life cycle of ERP implementation based on 1C, including requirements analysis, writing technical specifications, testing and training.
+- Development of reports, external processing, configurations, extensions on the 1C platform.
+- Creation and integration of REST API for data exchange with client applications.
+- Writing Telegram bots using Aiogram to automate processes.
+- Development and support of web applications based on Django.
+- Optimization and improvement of existing systems.
+- Work in a team of integrators and joint solution of complex problems.
+
 
 ### Venkon Group LLC, January 2020 - November 2020
 
 Junior Specialist
 
+- Conducted consultations and helped to solve emerging problems of users.
+- Setting up the 1C integration module with electronic invoice services.
+- Learned to work on the 1C platform (CRM).
+
 
 ### Self Employed, 2020 - Present
 
-Developer
+Developer, IT consultant
+
+- Development of Telegram bots to automate various tasks, collect data, notify users and other functions. This included working with the Telegram API, developing bot logic, integrating with other services, and setting up user interaction.
+- Development of web applications using Python/Django. This included creating functionality, working with databases, developing a RESTful API, processing forms, and interacting with the frontend. Participated in application architecture design and selection of optimal solutions.
+- Provided consultations on various IT issues. This included assistance in the selection of technology solutions, an assessment of opportunities and risks, and a technology implementation plan. I have helped clients optimize their business processes.
+- Provided technical support, including troubleshooting and diagnostics. Also performed updates and maintenance of web applications.
+- Project management. Developed project plans, defined requirements, monitored compliance with deadlines, quality of work and resolved emerging issues.
 
 
 ## EDUCATION
